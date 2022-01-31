@@ -2,8 +2,6 @@
 
 [![heroku deployed](https://raw.githubusercontent.com/DenisOH/pyheroku-badge/master/img/deployed-plastic.svg)](https://salary-prediction-st.herokuapp.com/)
 
-![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png)
-
 This repository consists of files required to deploy a ___Machine Learning Web App___ for salary prediction created with ___Streamlit___ and deployed on ___Heroku___ platform.
 
 If you want to view the deployed model, click on the __heroku deployed__ button above or in the following link:<br />
@@ -51,7 +49,8 @@ streamlit run app.py
 <br />
 <br />
 
-<!-- A glimpse of the web app: -->
+A glimpse of the web app: 
+![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png)
 
 <!-- ![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png) -->
 
@@ -60,6 +59,7 @@ If the webapp is not working and you get the message as shown in the picture giv
 
 ![Heroku-Error](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/application-error-heroku.png)
 
+<!-- <img src="https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/application-error-heroku.png" width=80% height=80%> -->
 
 
 
