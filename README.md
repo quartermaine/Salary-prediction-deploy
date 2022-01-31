@@ -1,4 +1,4 @@
-# Salary-prediction
+# Software developer salary prediction
 
 [![heroku deployed](https://raw.githubusercontent.com/DenisOH/pyheroku-badge/master/img/deployed-plastic.svg)](https://salary-prediction-st.herokuapp.com/)
 
