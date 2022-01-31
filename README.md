@@ -16,7 +16,7 @@ Deployed at: _https://salary-prediction-st.herokuapp.com/_
 ![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png)
 
 _**----- Important Note -----**_<br />
-- If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by Heroku have been completely used.** _You can access the webpage on 1st of the next month._<br />
+- If the webapp is not working and you get the message as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by Heroku have been completely used.** _You can access the webpage on 1st of the next month._<br />
 
 ![Heroku-Error](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/application-error-heroku.png)
 
