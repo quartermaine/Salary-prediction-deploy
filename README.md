@@ -1,8 +1,6 @@
-# Salary-prediction
+# Software developer salary prediction
 
 [![heroku deployed](https://raw.githubusercontent.com/DenisOH/pyheroku-badge/master/img/deployed-plastic.svg)](https://salary-prediction-st.herokuapp.com/)
-
-![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png)
 
 This repository consists of files required to deploy a ___Machine Learning Web App___ for salary prediction created with ___Streamlit___ and deployed on ___Heroku___ platform.
 
@@ -13,8 +11,8 @@ The data are available from the 2021 stack overflow survey:
   [Download Full Data Set(CSV)](https://insights.stackoverflow.com/survey) 
    
    
-## Reproducing this web app
-To recreate this web app on your own computer, do the following.
+## Reproducing this web app 
+To recreate this web app on your own computer without deployment on heroku, do the following.
 
 ### Create conda environment
 Firstly, we will create a conda environment called *myenv*
@@ -50,8 +48,9 @@ streamlit run app.py
 
 <br />
 <br />
+<br />
 
-<!-- A glimpse of the web app: -->
+![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png)
 
 <!-- ![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png) -->
 
@@ -60,6 +59,7 @@ If the webapp is not working and you get the message as shown in the picture giv
 
 ![Heroku-Error](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/application-error-heroku.png)
 
+<!-- <img src="https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/application-error-heroku.png" width=80% height=80%> -->
 
 
 
