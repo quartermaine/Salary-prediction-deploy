@@ -10,7 +10,15 @@ Deployed at: _https://salary-prediction-st.herokuapp.com/_
 The data are available from the 2021 stack overflow survey:
   [Download Full Data Set(CSV)](https://insights.stackoverflow.com/survey) 
    
-   
+
+In order to create the model the [pycaret](https://github.com/pycaret) library used with data for full time developers having income less than 250000 and greter than 10000. The application makes predictions using the following features (columns):
+
+* Country
+* Education Level
+* Professional Level
+* Years of experience
+
+
 ## Reproducing this web app 
 To recreate this web app on your own computer without deployment on heroku, do the following.
 
