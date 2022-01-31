@@ -13,13 +13,11 @@ Deployed at: _https://salary-prediction-st.herokuapp.com/_
 
 - A glimpse of the web app:
 
-![GIF](readme_resources/diabetes-predictor-web-app.gif)
+![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png)
 
 _**----- Important Note -----**_<br />
 - If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by Heroku have been completely used.** _You can access the webpage on 1st of the next month._<br />
 
-![Heroku-Error](readme_resources/application-error-heroku.png)
+![Heroku-Error](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/application-error-heroku.png)
 
 
-
-• Please do ⭐ the repository, if it helped you in anyway.
