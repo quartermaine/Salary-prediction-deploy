@@ -48,8 +48,8 @@ streamlit run app.py
 
 <br />
 <br />
+<br />
 
-A glimpse of the web app: 
 ![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png)
 
 <!-- ![pic](https://github.com/quartermaine/Salary-prediction-deploy/blob/main/readme_recources/salary_app.png) -->
