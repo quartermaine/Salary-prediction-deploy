@@ -1,11 +1,11 @@
 # Salary-prediction
-<!-- 
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
- -->
- 
+
+[![heroku deployed](https://raw.githubusercontent.com/DenisOH/pyheroku-badge/master/img/deployed-plastic.svg)](https://salary-prediction-st.herokuapp.com/)
+
+
 - This repository consists of files required to deploy a ___Machine Learning Web App___ for salary prediction created with ___Streamlit___ and deployed on ___Heroku___ platform.
 
-- If you want to view the deployed model, click on the following link:<br />
+- If you want to view the deployed model, click on the __heroku deployed__ button above or in following link:<br />
 Deployed at: _https://salary-prediction-st.herokuapp.com/_
 
 - The data are available from the 2021 stack overflow survey:
