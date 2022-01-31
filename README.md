@@ -13,8 +13,8 @@ The data are available from the 2021 stack overflow survey:
   [Download Full Data Set(CSV)](https://insights.stackoverflow.com/survey) 
    
    
-## Reproducing this web app
-To recreate this web app on your own computer, do the following.
+## Reproducing this web app 
+To recreate this web app on your own computer without deployment on heroku, do the following.
 
 ### Create conda environment
 Firstly, we will create a conda environment called *myenv*
